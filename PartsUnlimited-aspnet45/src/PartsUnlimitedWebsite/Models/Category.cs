@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+// Day 2 change GIT test
+
 namespace PartsUnlimited.Models
 {
     public class Category
